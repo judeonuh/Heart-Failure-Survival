@@ -4,7 +4,7 @@ This analysis presents an in-depth discussion of key findings derived from a sur
 ---
 
 ## Dashboard
-An interactive dashboard for this nalysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDhlNmJkNTAtZjQ4Yi00NTk2LWFjOWItNTAwYzJlZTZhMGIzIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
+An interactive dashboard for this analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDhlNmJkNTAtZjQ4Yi00NTk2LWFjOWItNTAwYzJlZTZhMGIzIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
 
 ---
 
