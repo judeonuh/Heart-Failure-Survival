@@ -6,6 +6,7 @@ This analysis presents an in-depth discussion of key findings derived from a sur
 ## Dashboard
 An interactive dashboard for this analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDhlNmJkNTAtZjQ4Yi00NTk2LWFjOWItNTAwYzJlZTZhMGIzIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
 
+![home](survival_dashboard1.png)
 ---
 
 ## 📁 Table of Contents
@@ -52,8 +53,6 @@ The goal of this analysis is to translate observations into clinically and opera
 - PowerBI for Visualisation. 
 
 ---
-
-![home](survival_dashboard1.png)  
 
 ## Insights from Analysis
 ### 1. Overall Survival and Mortality Rates  
